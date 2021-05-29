@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans&display=swap');
+
+:root {
+  --title-font: 'Bebas Neue', cursive;
+  --text-font: 'IBM Plex Sans', sans-serif;
+}
+
+.my-title-font {
+  font-family: var(--title-font);
+  font-size: 40px;
+}
+
+.my-text-font {
+  font-family: var(--text-font);
+}
+
+i {
+  font-size: 30px;
+}
+
+.my-photo {
+  width: 100%;
+  height: auto;
+}
