@@ -3,6 +3,7 @@
 :root {
   --title-font: 'Bebas Neue', cursive;
   --text-font: 'IBM Plex Sans', sans-serif;
+  --primary: #fe8c02;
 }
 
 .my-title-font {
@@ -21,4 +22,12 @@ i {
 .my-photo {
   width: 100%;
   height: auto;
+}
+
+.change-pointer {
+  cursor: pointer;
+}
+
+.skill-icons {
+  justify-content: center;
 }
