@@ -1,2 +1,2 @@
 # my-web-site
-This is my web site project.
+this project containt my web site whit my skills about programmig
