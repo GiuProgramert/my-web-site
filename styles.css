@@ -31,3 +31,14 @@ i {
 .skill-icons {
   justify-content: center;
 }
+
+a.contac-link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+a.contac-link:hover {
+  text-decoration: underline;
+  font-size: 19px;
+}
