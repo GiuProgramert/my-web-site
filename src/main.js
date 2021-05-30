@@ -1,3 +1,5 @@
+//Uptading pages
+
 const webItems = document.getElementById("web-items");
 const desktopItems = document.getElementById("desktop-items");
 const btnWebItem = document.getElementById("btn-web-items");
