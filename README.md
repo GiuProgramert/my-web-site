@@ -1,2 +1,2 @@
 # my-web-site
-my personal website currently work in progress
+my personal website currently working in progress
